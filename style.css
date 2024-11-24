@@ -1,0 +1,16 @@
+.app {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: transparent;
+    color: green;
+    background-color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+body{
+    margin: 0;
+}
